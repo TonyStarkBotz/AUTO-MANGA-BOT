@@ -1,5 +1,5 @@
 # Rexbots
-# Don't Remove Credit
+# Don't RemoveCredit
 # Telegram Channel @RexBots_Official 
 #Supoort group @rexbotschat
 
